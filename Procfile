@@ -1,1 +1,1 @@
-web: gunicorn social-feeder.wsgi
+web: gunicorn socialfeeder.wsgi
